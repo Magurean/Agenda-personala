@@ -1,0 +1,8 @@
+C:\Users\Andrei\source\repos\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\Andrei\source\repos\Agenda\bin\Debug\Agenda.exe
+C:\Users\Andrei\source\repos\Agenda\bin\Debug\Agenda.pdb
+C:\Users\Andrei\source\repos\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Agenda\obj\Debug\Agenda.exe
+C:\Users\Andrei\source\repos\Agenda\obj\Debug\Agenda.pdb
+C:\Users\Andrei\source\repos\Agenda\bin\Debug\Lista.csv
